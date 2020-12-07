@@ -4,7 +4,7 @@
 As fossil fuels get used up there will be more reliance on alternative energy production. Some sources of alternative energy include hydroelectric, wind, geothermal, solar and bioenergy and as such, there are many forms of green energy to invest in. This project analyzes thousands of green energy stocks from 2017 and 2018, through the utilization of Visual Basic for Applications (VBA), a programming language that interacts with excel by using macro code to automate analyses. 
 
 ### Purpose
-The purpose of this project is to compare the stock performance between 2017 and 2018, along with the execution times of the original cript and the refactored script. By doing this, one will be able to determine whether refactoring code makes the VBA script run faster.
+The purpose of this project is to compare the stock performance between 2017 and 2018, along with the execution times of the original script and the refactored script. By doing this, one will be able to determine whether refactoring code makes the VBA script run faster.
 
 
 ## Results
@@ -18,7 +18,7 @@ The tables below compare the performance of green stocks between 2017 and 2018. 
 In taking a closer look at the analysis, the most visible difference is that in 2017 all but one stock (Ticker: TERP) had positive returns, while in 2018 all but two stocks (Tickers: ENHP and RUN) had negative returns. The data shows that two stocks (Tickers: ENPH and RUN) would have been good investments, as they had positive returns in 2017 and 2018. 
 
 ### Comparison of VBA Code Utilized to Run Analysis
-To run the analysis, a detailed script of code had to be written in VBA. The original script was initially written and later refactored, with the intent to maximize the efficiency of the run time for the pop-up messages, after running analyses for 2017 and 2018.The original code included a nested for loop, which is essentially a loop inside of a loop, that tells the computer to repeat lines of code for as many loops outlined. In contrast, the refactored code was developed to loop through all the data one time in order to collect the same information as before. 
+To run the analysis, a detailed script of code had to be written in VBA. The original script was initially written and later refactored, with the intent to maximize the efficiency of the run time for the pop-up messages, after running analyses for 2017 and 2018. The original code included a nested for loop, which is essentially a loop inside of a loop, that tells the computer to repeat lines of code for as many loops outlined. In contrast, the refactored code was developed to loop through all the data one time in order to collect the same information as before. 
 
 ![Resources/VBA_Challenge_Original_vs._Refactored_VBA_Script](/Resources/VBA_Challenge_Original_vs._Refactored_VBA_Script.JPG)
 
