@@ -6,6 +6,7 @@ As fossil fuels get used up there will be more reliance on alternative energy pr
 ### Purpose
 The purpose of this project is to compare the stock performance between 2017 and 2018, along with the execution times of the original cript and the refactored script. By doing this, one will be able to determine whether refactoring code makes the VBA script run faster.
 
+
 ## Results
 An in depth look at the performance of green stocks in 2017 and 2018, along with the detailed analysis outlined below, can be found **[here](https://github.com/cmmgw/stock-analysis/blob/main/VBA_Challenge.xlsm).** 
 
@@ -29,14 +30,15 @@ The original and refactored code both include a script that calculates how long 
 ![Resources/VBA_Challenge_2017_Original](/Resources/VBA_Challenge_2017_Original.JPG)
 ![Resources/VBA_Challenge_2017_Refactored](/Resources/VBA_Challenge_2017_Refactored.JPG)
 
-**Difference in Run Time: 0.846436 seconds**
+Difference in Run Time: 0.846436 seconds
 
-##### Elapsed Run Time for 2018 Using Original vs. Refactored VBA Script 
+#### Elapsed Run Time for 2018 Using Original vs. Refactored VBA Script 
 
 ![Resources/VBA_Challenge_2018_Original](/Resources/VBA_Challenge_2018_Original.JPG)
 ![Resources/VBA_Challenge_2018_Original](/Resources/VBA_Challenge_2018_Original.JPG)
 
-**Difference in Run Time: 0.8640139**
+Difference in Run Time: 0.8640139
+
 
 ## Summary
 
